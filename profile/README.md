@@ -2,7 +2,7 @@
 
 # IAR on GitHub
 
-IAR supplies development and security solutions that make embedded systems development fast, efficient and reliable for companies worldwide.
+IAR, a Qt Group company, supplies development and security solutions that make embedded systems development fast, efficient and reliable for companies worldwide.
 
 Although the vast majority of the software published here falls under open-source licenses, part of it is released under proprietary licenses. Please refer to the LICENSE.md file included in each repository for more details.
 
