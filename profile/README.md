@@ -1,4 +1,4 @@
-<img width=88 align="right" alt="IAR - Tomorrow's intelligence, delivered today." src="https://github.com/iarsystems/.github/blob/main/profile/IAR_Logo_QtGroup_secondary_Black_RedDot.svg">
+<img width=72 align="right" alt="IAR - Tomorrow's intelligence, delivered today." src="https://github.com/iarsystems/.github/blob/main/profile/IAR_Logo_QtGroup_secondary_Black_RedDot.svg">
 
 
 # IAR on GitHub
