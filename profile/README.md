@@ -1,4 +1,5 @@
-<img width=128 align="right" alt="IAR - Tomorrow's intelligence, delivered today." src="https://github.com/iarsystems/.github/blob/main/profile/IAR_Logo_RGB_Pos.svg">
+<img width=86 align="right" alt="IAR - Tomorrow's intelligence, delivered today." src="https://avatars.githubusercontent.com/u/64431848?s=256&v=4">
+
 
 # IAR on GitHub
 
