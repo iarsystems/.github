@@ -1,6 +1,3 @@
-<img width=72 align="right" alt="IAR - Tomorrow's intelligence, delivered today." src="https://github.com/iarsystems/.github/blob/main/profile/IAR_Logo_QtGroup_secondary_Black_RedDot.svg">
-
-
 # IAR on GitHub
 
 IAR, a Qt Group company, supplies development and security solutions that make embedded systems development fast, efficient and reliable for companies worldwide.
