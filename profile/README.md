@@ -7,6 +7,5 @@ Although the vast majority of the software published here falls under open-sourc
 Our [IAR website](https://iar.com) will give you access to detailed information about our solutions.
 
 For more information, please visit our different information and support channels:
-- [IAR website](https://iar.com)
-- [IAR Support](https://iar.com/support)
-- [IAR MyPages](https://iar.com/mypages)
+
+[IAR website](https://iar.com) | [IAR Support](https://iar.com/support) | [IAR MyPages](https://iar.com/mypages)
